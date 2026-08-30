@@ -13,13 +13,13 @@ This is a simple static website designed for GitHub Pages.
 6. Under **Build and deployment**, choose **Deploy from a branch**.
 7. Select branch **main** and folder **/(root)**, then save.
 8. GitHub will publish the site at an address similar to:
-   `https://YOUR-USERNAME.github.io/integrated-pain-services/`
+   `https://integratedpainservices.co.uk`
 
 The Carbon Reduction Plan page will be:
-`https://YOUR-USERNAME.github.io/integrated-pain-services/carbon-reduction-plan.html`
+`https://integratedpainservices.co.uk/carbon-reduction-plan.html`
 
 The direct public PDF URL will be:
-`https://YOUR-USERNAME.github.io/integrated-pain-services/integrated-pain-services-carbon-reduction-plan.pdf`
+`https://integratedpainservices.co.uk/carbon-reduction-plan.pdf`
 
 Use the direct PDF URL in any questionnaire field that specifically requests a direct public CRP URL.
 
